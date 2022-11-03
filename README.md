@@ -21,7 +21,7 @@
 * The model takes dog image as input and give the predicted dog breed as output.
 
 # Project 3 (Part 2): [Dog Breed Prediction Webapp](https://github.com/hansie23/dog-breed-prediction-webapp)
-* Used Flask, Python, HTML, CSS, Numpy and Tensorflow
+* Used Flask, Python, HTML, CSS, Numpy, Heroku and Tensorflow
 * Created a client facing web app to interact with the dog breed prediction model
 * Created flask API for preprocessing and prediction of a dog image given as input
 * https://dogbreedprediction-webapp.herokuapp.com/ (might take a bit to load first
