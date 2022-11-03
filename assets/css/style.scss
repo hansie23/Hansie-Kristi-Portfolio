@@ -2,4 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-fa {font-size: 15px;}
+fa, btn
+{
+  font-size: 15px;
+}
