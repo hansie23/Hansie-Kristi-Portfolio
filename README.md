@@ -26,3 +26,6 @@
 * Created flask API for preprocessing and prediction of a dog image given as input
 * [https://dogbreedprediction-webapp.herokuapp.com/](https://dogbreedprediction-webapp.herokuapp.com/) (might take a bit to load first
 time since free Heroku web dyno sleeps after 30 minutes of no web traffic)
+
+# Project 4: [Stock Price Prediction](https://github.com/hansie23/stock-prediction)
+* 
