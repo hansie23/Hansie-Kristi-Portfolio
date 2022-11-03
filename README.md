@@ -4,7 +4,7 @@
 * Scrapes each webpage for job title, company name, location and salary
 * The information is saved in '.csv' file.
 
-# [Project 2: Data Analysis of Red Wine](https://github.com/hansie23/data-analysis-of-red-wine)
+# Project 2: [Data Analysis of Red Wine](https://github.com/hansie23/data-analysis-of-red-wine)
 * Used Python, Jupyter notebook, Numpy, Pandas, Matplotlib, Seaborn and Scikit-Learn
 * Performed data analysis of red wine to segregate them based on quality
 * Plotted bar graphs, scatter plots, learning curve graphs and heatmaps
