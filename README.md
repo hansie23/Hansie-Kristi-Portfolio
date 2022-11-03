@@ -1,6 +1,7 @@
 # Hansie Kristi
 
 # Project 1: Web scrapper
+* Used BeautifulSoup and Pandas libraries
 * It loads the Indeed job site at the provided URL and parses the content
 * Scrapes each webpage for job title, company name, location and salary
 * The information is saved in '.csv' file.
