@@ -7,7 +7,7 @@
 * Found multi-colinearity in the data. Generated a 2-component PCA projection and visualization
 * Trained and tested a logistic regression model gaining 98% accuracy.
 
-![](https://github.com/hansie23/Hansie-Kristi/blob/main/images/alcohol_vs_density.png)
+![](images/alcohol_vs_density.png)
 
 # Project 2 (Part 1): [Dog Breed Prediction Notebook](https://github.com/hansie23/dog-breed-prediction-notebook)
 * Used Numpy, Pandas, Matplotlob, Scikit-learn, Tensorflow, Tensorflow Hub
