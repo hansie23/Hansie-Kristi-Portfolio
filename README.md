@@ -24,3 +24,5 @@
 * Used Flask, Python, HTML, CSS, Numpy and Tensorflow
 * Created a client facing web app to interact with the dog breed prediction model
 * Created flask API for preprocessing and prediction of a dog image given as input
+* https://dogbreedprediction-webapp.herokuapp.com/ (might take a bit to load first
+time since free Heroku web dyno sleeps after 30 minutes of no web traffic)
