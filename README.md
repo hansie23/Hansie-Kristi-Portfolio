@@ -1,10 +1,10 @@
-# Project 1: Web scrapper
+# Project 1: [Web scrapper](https://github.com/hansie23/dog-breed-prediction-webapp)
 * Used Python, BeautifulSoup and Pandas
 * It loads the Indeed job site at the provided URL and parses the content
 * Scrapes each webpage for job title, company name, location and salary
 * The information is saved in '.csv' file.
 
-# Project 2: Data Analysis of Red Wine
+# [Project 2: Data Analysis of Red Wine](https://github.com/hansie23/data-analysis-of-red-wine)
 * Used Python, Jupyter notebook, Numpy, Pandas, Matplotlib, Seaborn and Scikit-Learn
 * Performed data analysis of red wine to segregate them based on quality
 * Plotted bar graphs, scatter plots, learning curve graphs and heatmaps
