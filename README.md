@@ -8,7 +8,10 @@
 
 # Project 2: Data Analysis of Red Wine
 * Used Numpy, Pandas, Matplotlib, Seaborn and Scikit-Learn
-* Performed data analysis of red wine and segregate them based on quality
-* Plotted bar graphs, scatter plots, learning curve graphs and heatmap
-* Generated a 2-component PCA projection and visualization
+* Performed data analysis of red wine to segregate them based on quality
+* Plotted bar graphs, scatter plots, learning curve graphs and heatmaps
+* Found multi-colinearity in the data. Generated a 2-component PCA projection and visualization
+* Trained and tested a logistic regressing model gaining 98% accuracy
+
+# Project 3: Dog Breed Prediction Notebook
 * 
