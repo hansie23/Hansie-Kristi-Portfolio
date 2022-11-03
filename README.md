@@ -28,4 +28,5 @@
 time since free Heroku web dyno sleeps after 30 minutes of no web traffic)
 
 # Project 4: [Stock Price Prediction](https://github.com/hansie23/stock-prediction)
-* 
+* Used Pandas, Numpy, Keras, Scikit-learn, Plotly, Matplotlib and Streamlit
+* Designed a deep neural network using LSTM to predict the stock price
