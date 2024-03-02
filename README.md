@@ -8,7 +8,7 @@
 * Provided insights into how different features affect model performance and demonstrated techniques for visualizing and interpreting results.
 * Covered essential steps in machine learning workflows, including data pre-processing, exploration, model training, evaluation, and feature selection
 
-!(https://github.com/hansie23/Hansie-Kristi-Portfolio/blob/64944c99fd18d0d7065334a479e1bf3ce9d22f1c/images/pca.png)
+![https://github.com/hansie23/Hansie-Kristi-Portfolio/blob/64944c99fd18d0d7065334a479e1bf3ce9d22f1c/images/pca.png](images/pca.png)
 
 
 # Project 2 (Part 1): [Dog Breed Prediction Notebook](https://github.com/hansie23/dog-breed-prediction-notebook)
