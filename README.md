@@ -1,11 +1,12 @@
 # **My Portfolio**
 
 # Project 1: [Data Analysis of Red Wine](https://github.com/hansie23/data-analysis-of-red-wine)
-* Used Python, Jupyter notebook, Numpy, Pandas, Matplotlib, Seaborn and Scikit-Learn
-* Performed data analysis of red wine to segregate them based on quality
-* Plotted bar graphs, scatter plots, learning curve graphs and heatmaps
+* This code project is focused on the analysis and classification of red wine quality based on its chemical properties primarily using logistic regression.
+* Used Python, Numpy, Pandas, Matplotlib, Seaborn and Scikit-Learn
 * Found multi-colinearity in the data. Generated a 2-component PCA projection and visualization
-* Trained and tested a logistic regression model gaining 98% accuracy.
+* Trained and tested a logistic regression model gaining 98% accuracy
+* Provided insights into how different features affect model performance and demonstrated techniques for visualizing and interpreting results.
+* Covered essential steps in machine learning workflows, including data pre-processing, exploration, model training, evaluation, and feature selection
 ![https://github.com/hansie23/Hansie-Kristi/blob/main/images/alcohol_vs_density.png](images/alcohol_vs_density.png)
 
 
