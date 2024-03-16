@@ -39,3 +39,4 @@ time since free Heroku web dyno sleeps after 30 minutes of no web traffic)
 * **Model Interpretability:** Utilized Gradient-weighted Class Activation Mapping (Grad-CAM) to visualize model decisions and interpret the importance of different features in segmentation.
 * **Result Visualization:** Generated visualizations of model predictions and ground truth masks for qualitative assessment of segmentation accuracy.
 * **Outcome:** Achieved promising results in tumor segmentation, demonstrating potential for clinical application in medical image analysis and contributing to advancements in healthcare technology.
+![https://github.com/hansie23/Hansie-Kristi-Portfolio/blob/13b07a264c2c60a2145644d946fd405bbc138d1a/images/evaluation_metrics.png](images/evaluation_metrics.png)
