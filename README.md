@@ -31,11 +31,11 @@ time since free Heroku web dyno sleeps after 30 minutes of no web traffic)
 ![https://github.com/hansie23/Hansie-Kristi/blob/main/images/stock_trend.png](images/stock_trend.png)
 
 # Project 4: [Brain Tumor Segmentation using U-Net Model](#)
-* Objective: Developed a deep learning model for automatic segmentation of brain tumors from MRI images using the U-Net architecture.
-* Technologies Used: Python, TensorFlow, Keras, NumPy, OpenCV, PIL, Matplotlib.
-* Data Preprocessing: Preprocessed a dataset of MRI images and corresponding masks, including resizing, normalization, and augmentation to enhance model robustness.
-* Model Architecture: Implemented a U-Net convolutional neural network comprising encoder and decoder pathways for feature extraction and segmentation.
-* Training and Evaluation: Trained the model using Adam optimizer and binary cross-entropy loss, evaluated performance metrics including accuracy, dice coefficient, and Jaccard index.
-* Model Interpretability: Utilized Gradient-weighted Class Activation Mapping (Grad-CAM) to visualize model decisions and interpret the importance of different features in segmentation.
-* Result Visualization: Generated visualizations of model predictions and ground truth masks for qualitative assessment of segmentation accuracy.
-* Outcome: Achieved promising results in tumor segmentation, demonstrating potential for clinical application in medical image analysis and contributing to advancements in healthcare technology.
+* **Objective:** Developed a deep learning model for automatic segmentation of brain tumors from MRI images using the U-Net architecture.
+* **Technologies Used:** Python, TensorFlow, Keras, NumPy, OpenCV, PIL, Matplotlib.
+* **Data Preprocessing:** Preprocessed a dataset of MRI images and corresponding masks, including resizing, normalization, and augmentation to enhance model robustness.
+* **Model Architecture:** Implemented a U-Net convolutional neural network comprising encoder and decoder pathways for feature extraction and segmentation.
+* **Training and Evaluation:** Trained the model using Adam optimizer and binary cross-entropy loss, evaluated performance metrics including accuracy, dice coefficient, and Jaccard index.
+* **Model Interpretability:** Utilized Gradient-weighted Class Activation Mapping (Grad-CAM) to visualize model decisions and interpret the importance of different features in segmentation.
+* **Result Visualization:** Generated visualizations of model predictions and ground truth masks for qualitative assessment of segmentation accuracy.
+* **Outcome:** Achieved promising results in tumor segmentation, demonstrating potential for clinical application in medical image analysis and contributing to advancements in healthcare technology.
