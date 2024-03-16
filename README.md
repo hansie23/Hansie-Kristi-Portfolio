@@ -30,7 +30,7 @@ time since free Heroku web dyno sleeps after 30 minutes of no web traffic)
 * Designed a deep neural network using LSTM to predict the stock price
 ![https://github.com/hansie23/Hansie-Kristi/blob/main/images/stock_trend.png](images/stock_trend.png)
 
-# Project 4: [Brain Tumor Segmentation using U-Net Model](#)
+# Project 4: [Brain Tumor Segmentation using U-Net Model](https://github.com/hansie23/Brain-Tumor-Segmentation)
 * **Objective:** Developed a deep learning model for automatic segmentation of brain tumors from MRI images using the U-Net architecture.
 * **Technologies Used:** Python, TensorFlow, Keras, NumPy, OpenCV, PIL, Matplotlib.
 * **Data Preprocessing:** Preprocessed a dataset of MRI images and corresponding masks, including resizing, normalization, and augmentation to enhance model robustness.
