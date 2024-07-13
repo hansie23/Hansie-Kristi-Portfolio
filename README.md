@@ -1,6 +1,6 @@
 # **My Portfolio**
 
-# Project 1: [Brain Tumor Segmentation using U-Net Model](https://github.com/hansie23/Brain-Tumor-Segmentation)
+# Project 1: [Brain Tumor Segmentation using U-Net Model](https://omdenakitwechapterforecastingcovid19dynamics.streamlit.app/)
 * **Objective:** Developed a deep learning model for automatic segmentation of brain tumors from MRI images using the U-Net architecture.
 * **Technologies Used:** Python, TensorFlow, Keras, NumPy, OpenCV, PIL, Matplotlib.
 * **Data Preprocessing:** Preprocessed a dataset of MRI images and corresponding masks, including resizing, normalization, and augmentation to enhance model robustness.
@@ -21,19 +21,24 @@
 
 ![https://github.com/hansie23/Hansie-Kristi-Portfolio/blob/64944c99fd18d0d7065334a479e1bf3ce9d22f1c/images/pca.png](images/pca.png)
 
-# Project 3 (Part 1): [Dog Breed Prediction Notebook](https://github.com/hansie23/dog-breed-prediction-notebook)
-* Used Numpy, Pandas, Matplotlob, Scikit-learn, Tensorflow, Tensorflow Hub
-* Turned images to tensors and then converted the data into batches
-* Used the neural network model MobileNet V2 from Tensorflow Hub
-* Created callbacks for Tensorboard and early stopping
-* The model takes dog image as input and give the predicted dog breed as output.
+# Project 3 (Part 1): [Dog Breed Prediction Notebook](https://hansie23-dog-breed-classifier.hf.space)
+* **Objective:** Developed a machine learning model to classify dog breeds from images using TensorFlow.
+* **Technologies Used:** Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Streamlit.
+* **Data Preprocessing:**
+  * Sourced from Kaggle’s Dog Breed Identification challenge.
+  * Contains thousands of labeled images categorized into 120 dog breeds.
+  * Applied image augmentation techniques (rotation, flipping, zooming, shifting) to enhance model generalization.
+  * Utilized batch processing for efficient memory usage and training optimization.
+* **Model Architecture:** Leveraged transfer learning using the MobileNet_V2 model (https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/5).
+* **Training:** 
+  * Trained the model using the augmented dataset.
+  * Used categorical cross-entropy loss function and Adam optimizer.
+  * Monitored performance on a validation set for hyperparameter tuning and overfitting prevention.
+* **Evaluation:** Evaluated model performance on a separate test set and using a custom function to evaluate the predicted dog breed with the actual dog breed.
+* **Result:** * High accuracy in classifying dog breeds and effective generalization to new, unseen images due to image augmentation.
+* **Deployment:** * Deployed the model as a web app using Streamlit.
+* **Outcome:** * Demonstrated the potential of transfer learning in image classification tasks with numerous categories. Gained experience in data preprocessing, image processing and transfer learning.
 
-# Project 4 (Part 2): [Dog Breed Prediction Webapp](https://github.com/hansie23/dog-breed-prediction-webapp)
-* Used Flask, Python, HTML, CSS, Numpy, Heroku and Tensorflow
-* Created a client facing web app to interact with the dog breed prediction model
-* Created flask API for preprocessing and prediction of a dog image given as input
-* [https://dogbreedprediction-webapp.herokuapp.com/](https://dogbreedprediction-webapp.herokuapp.com/) (might take a bit to load first
-time since free Heroku web dyno sleeps after 30 minutes of no web traffic)
 
 # Project 5: [Stock Price Prediction](https://github.com/hansie23/stock-prediction)
 * Used Pandas, Numpy, Keras, Scikit-learn, Plotly, Matplotlib and Streamlit
