@@ -12,17 +12,7 @@
 * **Outcome:** Achieved promising results in tumor segmentation, demonstrating potential for clinical application in medical image analysis and contributing to advancements in healthcare technology.
 ![https://github.com/hansie23/Hansie-Kristi-Portfolio/blob/13b07a264c2c60a2145644d946fd405bbc138d1a/images/evaluation_metrics.png](images/evaluation_metrics.png)
 
-# Project 2: [Data Analysis of Red Wine](https://github.com/hansie23/data-analysis-of-red-wine)
-* This code project is focused on the analysis and classification of red wine quality based on its chemical properties primarily using logistic regression.
-* Used Python, Numpy, Pandas, Matplotlib, Seaborn and Scikit-Learn
-* Found multi-colinearity in the data. Generated a 2-component PCA projection and visualization
-* Trained and tested a logistic regression model gaining 98% accuracy
-* Provided insights into how different features affect model performance and demonstrated techniques for visualizing and interpreting results.
-* Covered essential steps in machine learning workflows, including data pre-processing, exploration, model training, evaluation, and feature selection
-
-![https://github.com/hansie23/Hansie-Kristi-Portfolio/blob/64944c99fd18d0d7065334a479e1bf3ce9d22f1c/images/pca.png](images/pca.png)
-
-# Project 3 (Part 1): [Dog Breed Prediction Notebook](https://hansie23-dog-breed-classifier.hf.space)
+# Project 2: [Dog Breed Prediction](https://hansie23-dog-breed-classifier.hf.space)
 * **Objective:** Developed a machine learning model to classify dog breeds from images using TensorFlow.
 * **Technologies Used:** Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Streamlit.
 * **Data Preprocessing:**
