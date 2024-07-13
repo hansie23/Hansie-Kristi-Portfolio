@@ -1,6 +1,6 @@
 # **My Portfolio**
 
-# Project 1: [Brain Tumor Segmentation using U-Net Model](https://hansie23-brain-tumor-segmentation.hf.space)
+# Project 1: [Brain Tumor Segmentation](https://hansie23-brain-tumor-segmentation.hf.space)
 * **Objective:** Developed a deep learning model for automatic segmentation of brain tumors from MRI images using the U-Net architecture.
 * **Technologies Used:** Python, TensorFlow, Keras, NumPy, OpenCV, PIL, Matplotlib.
 * **Data Preprocessing:** Preprocessed a dataset of MRI images and corresponding masks, including resizing, normalization, and augmentation to enhance model robustness.
