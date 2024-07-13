@@ -8,7 +8,7 @@
 * **Training and Evaluation:** Trained the model using Adam optimizer and binary cross-entropy loss, evaluated performance metrics including accuracy, dice coefficient, and Jaccard index.
 * **Model Interpretability:** Utilized Gradient-weighted Class Activation Mapping (Grad-CAM) to visualize model decisions and interpret the importance of different features in segmentation.
 * **Result Visualization:** Generated visualizations of model predictions and ground truth masks for qualitative assessment of segmentation accuracy.
-* **Deployment:** * Deployed the model as a web app using Streamlit.
+* **Deployment:** Deployed the model as a web app using Streamlit.
 * **Outcome:** Achieved promising results in tumor segmentation, demonstrating potential for clinical application in medical image analysis and contributing to advancements in healthcare technology.
 ![https://github.com/hansie23/Hansie-Kristi-Portfolio/blob/13b07a264c2c60a2145644d946fd405bbc138d1a/images/evaluation_metrics.png](images/evaluation_metrics.png)
 
@@ -26,9 +26,9 @@
   * Used categorical cross-entropy loss function and Adam optimizer.
   * Monitored performance on a validation set for hyperparameter tuning and overfitting prevention.
 * **Evaluation:** Evaluated model performance on a separate test set and using a custom function to evaluate the predicted dog breed with the actual dog breed.
-* **Result:** * High accuracy in classifying dog breeds and effective generalization to new, unseen images due to image augmentation.
-* **Deployment:** * Deployed the model as a web app using Streamlit.
-* **Outcome:** * Demonstrated the potential of transfer learning in image classification tasks with numerous categories. Gained experience in data preprocessing, image processing and transfer learning.
+* **Result:** High accuracy in classifying dog breeds and effective generalization to new, unseen images due to image augmentation.
+* **Deployment:** Deployed the model as a web app using Streamlit.
+* **Outcome:** Demonstrated the potential of transfer learning in image classification tasks with numerous categories. Gained experience in data preprocessing, image processing and transfer learning.
 
 
 # Project 5: [Stock Price Prediction](https://github.com/hansie23/stock-prediction)
