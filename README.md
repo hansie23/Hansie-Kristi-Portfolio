@@ -26,7 +26,7 @@
   * Monitored performance on a validation set for hyperparameter tuning and overfitting prevention.
 * **Evaluation:** Evaluated model performance on a separate test set and using a custom function to evaluate the predicted dog breed with the actual dog breed.
 * **Result:** High accuracy in classifying dog breeds and effective generalization to new, unseen images due to image augmentation.
-* **Deployment:** Deployed the model as a web app using Streamlit. [Deployment link](https://hansie23-dog-breed-prediction.hf.space)
+* **Deployment:** Deployed the model as a web app using Streamlit. [Deployment link](https://hansie23-dog-breed-classifier.hf.space)
 * **Outcome:** Demonstrated the potential of transfer learning in image classification tasks with numerous categories. Gained experience in data preprocessing, image processing and transfer learning.
 
 
