@@ -1,17 +1,17 @@
 # **My Portfolio**
 
 # Project 1: Data Analysis of COVID-19 dynamics in Zambia
-**Project Overview:** This project involved the comprehensive cleaning, preprocessing, and merging of six diverse datasets related to COVID-19 in Zambia and forecasting the total deaths and cases. The resulting integrated dataset provides valuable insights into the pandemic's impact on the country, enabling in-depth analysis and informed decision-making.
-**Technologies:** Python, Pandas, Seaborn, Matplotlib, Folium, Scikit-learn
-**Key Achievements:**
-   Data Integration: Successfully integrated six datasets from various sources, including government agencies, international organizations, and research institutions.
-   Data Cleaning: Handled extensive missing data across multiple datasets, employing techniques like dropping irrelevant columns/rows, filling with 0, forward/backward filling, and linear regression imputation.
-   Data Preprocessing: Performed numerous data transformations, including:
-       Standardizing date/time formats
-       Grouping and aggregating data
-       Generating complete date ranges and reindexing
-       Feature engineering (calculating rates, proportions, and moving averages)
-   Data Visualization: Utilized Matplotlib and Folium libraries for visualizations, aiding in data exploration, missing value identification, and pattern recognition.
+* **Project Overview:** This project involved the comprehensive cleaning, preprocessing, and merging of six diverse datasets related to COVID-19 in Zambia and forecasting the total deaths and cases. The resulting integrated dataset provides valuable insights into the pandemic's impact on the country, enabling in-depth analysis and informed decision-making.
+* **Technologies:** Python, Pandas, Seaborn, Matplotlib, Folium, Scikit-learn
+* **Key Achievements:**
+   * Data Integration: Successfully integrated six datasets from various sources, including government agencies, international organizations, and research institutions.
+   * Data Cleaning: Handled extensive missing data across multiple datasets, employing techniques like dropping irrelevant columns/rows, filling with 0, forward/backward filling, and linear regression imputation.
+   * Data Preprocessing: Performed numerous data transformations, including:
+       * Standardizing date/time formats
+       * Grouping and aggregating data
+       * Generating complete date ranges and reindexing
+       * Feature engineering (calculating rates, proportions, and moving averages)
+   * Data Visualization: Utilized Matplotlib and Folium libraries for visualizations, aiding in data exploration, missing value identification, and pattern recognition.
    
 # Project 2: [Brain Tumor Segmentation](https://huggingface.co/hansie23)
 * **Objective:** Developed a deep learning model for automatic segmentation of brain tumors from MRI images using the U-Net architecture.
