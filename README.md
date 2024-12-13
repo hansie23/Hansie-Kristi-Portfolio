@@ -1,6 +1,6 @@
 # **My Portfolio**
 
-# Project 1: [Brain Tumor Segmentation](https://github.com/hansie23/Brain-Tumor-Segmentation-notebook)
+# Project 1: [Brain Tumor Segmentation]([https://github.com/hansie23/Brain-Tumor-Segmentation-notebook](https://huggingface.co/hansie23))
 * **Objective:** Developed a deep learning model for automatic segmentation of brain tumors from MRI images using the U-Net architecture.
 * **Technologies Used:** Python, TensorFlow, Keras, NumPy, OpenCV, PIL, Matplotlib.
 * **Data Preprocessing:** Preprocessed a dataset of MRI images and corresponding masks, including resizing, normalization, and augmentation to enhance model robustness.
@@ -11,7 +11,7 @@
 * **Deployment:** Deployed the model as a web app using Streamlit. [Deployment link](https://hansie23-brain-tumor-segmentation.hf.space)
 * **Outcome:** Achieved promising results in tumor segmentation, demonstrating potential for clinical application in medical image analysis and contributing to advancements in healthcare technology.
 
-# Project 2: [Dog Breed Prediction](https://github.com/hansie23/dog-breed-prediction-notebook)
+# Project 2: [Dog Breed Prediction]([https://github.com/hansie23/dog-breed-prediction-notebook](https://huggingface.co/hansie23))
 * **Objective:** Developed a machine learning model to classify dog breeds from images using TensorFlow.
 * **Technologies Used:** Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Streamlit.
 * **Data Preprocessing:**
@@ -28,8 +28,3 @@
 * **Result:** High accuracy in classifying dog breeds and effective generalization to new, unseen images due to image augmentation.
 * **Deployment:** Deployed the model as a web app using Streamlit. [Deployment link](https://hansie23-dog-breed-classifier.hf.space)
 * **Outcome:** Demonstrated the potential of transfer learning in image classification tasks with numerous categories. Gained experience in data preprocessing, image processing and transfer learning.
-
-
-# Project 3: [Stock Price Prediction](https://github.com/hansie23/stock-prediction)
-* Used Pandas, Numpy, Keras, Scikit-learn, Plotly, Matplotlib and Streamlit.
-* Designed a deep neural network using LSTM to predict the stock price.
