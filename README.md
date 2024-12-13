@@ -1,6 +1,19 @@
 # **My Portfolio**
 
-# Project 1: [Brain Tumor Segmentation](https://huggingface.co/hansie23)
+# Project 1: Data Analysis of COVID-19 dynamics in Zambia
+**Project Overview:** This project involved the comprehensive cleaning, preprocessing, and merging of six diverse datasets related to COVID-19 in Zambia and forecasting the total deaths and cases. The resulting integrated dataset provides valuable insights into the pandemic's impact on the country, enabling in-depth analysis and informed decision-making.
+**Technologies:** Python, Pandas, Seaborn, Matplotlib, Folium, Scikit-learn
+**Key Achievements:**
+   Data Integration: Successfully integrated six datasets from various sources, including government agencies, international organizations, and research institutions.
+   Data Cleaning: Handled extensive missing data across multiple datasets, employing techniques like dropping irrelevant columns/rows, filling with 0, forward/backward filling, and linear regression imputation.
+   Data Preprocessing: Performed numerous data transformations, including:
+       Standardizing date/time formats
+       Grouping and aggregating data
+       Generating complete date ranges and reindexing
+       Feature engineering (calculating rates, proportions, and moving averages)
+   Data Visualization: Utilized Matplotlib and Folium libraries for visualizations, aiding in data exploration, missing value identification, and pattern recognition.
+   
+# Project 2: [Brain Tumor Segmentation](https://huggingface.co/hansie23)
 * **Objective:** Developed a deep learning model for automatic segmentation of brain tumors from MRI images using the U-Net architecture.
 * **Technologies Used:** Python, TensorFlow, Keras, NumPy, OpenCV, PIL, Matplotlib.
 * **Data Preprocessing:** Preprocessed a dataset of MRI images and corresponding masks, including resizing, normalization, and augmentation to enhance model robustness.
@@ -11,7 +24,7 @@
 * **Deployment:** Deployed the model as a web app using Streamlit. [Deployment link](https://hansie23-brain-tumor-segmentation.hf.space)
 * **Outcome:** Achieved promising results in tumor segmentation, demonstrating potential for clinical application in medical image analysis and contributing to advancements in healthcare technology.
 
-# Project 2: [Dog Breed Prediction](https://huggingface.co/hansie23)
+# Project 3: [Dog Breed Prediction](https://huggingface.co/hansie23)
 * **Objective:** Developed a machine learning model to classify dog breeds from images using TensorFlow.
 * **Technologies Used:** Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Streamlit.
 * **Data Preprocessing:**
