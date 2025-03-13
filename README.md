@@ -13,7 +13,7 @@
        * Feature engineering (calculating rates, proportions, and moving averages)
    * **Data Visualization:** Utilized Matplotlib and Folium libraries for visualizations, aiding in data exploration, missing value identification, and pattern recognition.
    
-# Project 2: [Brain Tumor Segmentation](https://huggingface.co/hansie23)
+# Project 2: [Brain Tumor Segmentation](https://hansie23-brain-tumor-segmentation.hf.space)
 * **Objective:** Developed a deep learning model for automatic segmentation of brain tumors from MRI images using the U-Net architecture.
 * **Technologies Used:** Python, TensorFlow, Keras, NumPy, OpenCV, PIL, Matplotlib.
 * **Data Preprocessing:** Preprocessed a dataset of MRI images and corresponding masks, including resizing, normalization, and augmentation to enhance model robustness.
@@ -24,7 +24,7 @@
 * **Deployment:** Deployed the model as a web app using Streamlit. [Deployment link](https://hansie23-brain-tumor-segmentation.hf.space)
 * **Outcome:** Achieved promising results in tumor segmentation, demonstrating potential for clinical application in medical image analysis and contributing to advancements in healthcare technology.
 
-# Project 3: [Dog Breed Prediction](https://huggingface.co/hansie23)
+# Project 3: [Dog Breed Prediction](https://hansie23-dog-breed-classifier.hf.space)
 * **Objective:** Utilized transfer learning to classify dog breeds from images using TensorFlow.
 * **Technologies Used:** Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Streamlit.
 * **Data Preprocessing:**
