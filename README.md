@@ -13,7 +13,7 @@
        * Feature engineering (calculating rates, proportions, and moving averages)
    * **Data Visualization:** Utilized Matplotlib and Folium libraries for visualizations, aiding in data exploration, missing value identification, and pattern recognition.
    
-# Project 2: [Brain Tumor Segmentation](https://hansie23-brain-tumor-segmentation.hf.space)
+# Project 2: [Brain Tumor Segmentation](https://brain-tumor-detection-hkjgfwsbk9veuxh3q7ndos.streamlit.app/)
 * **Objective:** Developed a deep learning model for automatic segmentation of brain tumors from MRI images using the U-Net architecture.
 * **Technologies Used:** Python, TensorFlow, Keras, NumPy, OpenCV, PIL, Matplotlib.
 * **Data Preprocessing:** Preprocessed a dataset of MRI images and corresponding masks, including resizing, normalization, and augmentation to enhance model robustness.
@@ -21,7 +21,7 @@
 * **Training and Evaluation:** Trained the model using Adam optimizer and binary cross-entropy loss, evaluated performance metrics including accuracy, dice coefficient, and Jaccard index.
 * **Model Interpretability:** Utilized Gradient-weighted Class Activation Mapping (Grad-CAM) to visualize model decisions and interpret the importance of different features in segmentation.
 * **Result Visualization:** Generated visualizations of model predictions and ground truth masks for qualitative assessment of segmentation accuracy.
-* **Deployment:** Deployed the model as a web app using Streamlit. [Deployment link](https://hansie23-brain-tumor-segmentation.hf.space)
+* **Deployment:** Deployed the model as a web app using Streamlit. [Deployment link](https://brain-tumor-detection-hkjgfwsbk9veuxh3q7ndos.streamlit.app/)
 * **Outcome:** Achieved promising results in tumor segmentation, demonstrating potential for clinical application in medical image analysis and contributing to advancements in healthcare technology.
 
 # Project 3: [Dog Breed Prediction](https://hansie23-dog-breed-classifier.hf.space)
